@@ -1,0 +1,2 @@
+usarname = "instagramusarname"
+password = "instagrampassword"
